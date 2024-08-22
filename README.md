@@ -1,1 +1,2 @@
 # Cardiovascular-Disease-Prediction
+This project aims to predict the likelihood of cardiovascular disease using machine learning algorithms. It leverages a dataset with various health indicators, such as cholesterol levels, blood pressure, and smoking habits, to identify key factors that contribute to cardiovascular risks. The goal is to enhance predictive accuracy and support better decision-making in healthcare.
